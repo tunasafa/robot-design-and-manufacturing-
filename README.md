@@ -4,7 +4,8 @@
 
 Complete autonomous robotics system developed for competitive robotics applications during graduate studies in Robotics Engineering.
 
-Project Overview
+Project Overview :
+
 This repository showcases a fully autonomous robot designed and manufactured by our multidisciplinary team for robotics competition. The project encompasses mechanical design, control systems, and manufacturing processes for competitive autonomous robotics.
 
 Technical Contributions
