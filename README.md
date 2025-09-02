@@ -2,27 +2,24 @@
 
 # https://tunasafa.github.io/robot-design-and-manufacturing-/brobot.html
 
-Complete autonomous robotics system developed for competitive robotics applications during graduate studies in Robotics Engineering.
+This project showcases the complete autonomous robot design and manufacturing developed by my team during my Master's in Robotics for robotics competition.
 
-Project Overview :
+My Role & Contributions:
+I was responsible for the mechanical design and engineering of the entire system. As the mechanics lead, I handled all aspects of the mechanical components, from initial design concepts through final manufacturing specifications.
 
-This repository showcases a fully autonomous robot designed and manufactured by our multidisciplinary team for robotics competition.
-The project encompasses mechanical design, control systems, and manufacturing processes for competitive autonomous robotics.
+Project Features:
 
-Technical Contributions :
+- Complete robot documentation: You can find all technical information about the robot throughout the site
+- Interactive 3D design: I didn't want to abandon the public accessibility of my 3D design work, so I embedded the complete CAD model into this showcase website
+- Downloadable 3D files: You can download the complete 3D design files for your own use or reference
+- Full 3D inspection: You can see all the parts, inspect individual components, separate parts for detailed analysis, and zoom in/out in full 3D
+- Development timeline: You can follow the project chronologically through the integrated wiki page
 
-Mechanical Engineering Lead: Responsible for complete mechanical system design, component selection, prototyping and manufacturing specifications.
-3D CAD Integration: Implemented interactive 3D model visualization for comprehensive design documentation and public accessibility
+Technical Implementation:
 
-Repository Features
-
-- Complete Project Documentation: Comprehensive technical specifications and development timeline
-- Interactive 3D Visualization: Embedded CAD models with full manipulation capabilities (rotation, zoom, component isolation)
-- Downloadable CAD Files: Access to complete 3D design files for mechanical components
-- Development Wiki: Chronological project documentation detailing design decisions, iterations, and technical challenges
-- Component Analysis: Detailed part breakdown with individual component specifications
-
-This project demonstrates end-to-end robotics system development from conceptual design through manufacturing and competition deployment.
+The site integrates my mechanical design work with web-based 3D visualization, allowing anyone to explore the robot's mechanical systems in detail.
+This approach maintains public access to the technical work while providing comprehensive documentation of the development process.
+This project represents complete autonomous robotics system development from mechanical design through competitive implementation.
 
 --------------------------- PHOTO -----------------------------
 
