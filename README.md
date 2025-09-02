@@ -1,14 +1,26 @@
-# AUTONOMOUS BASKETBALL PLAYING ROBOT SHOWCASE
+#  Autonomous Robot Design & Manufacturing Project : AUTONOMOUS BASKETBALL PLAYING ROBOT SHOWCASE
 
-  https://tunasafa.github.io/robot-design-and-manufacturing-/brobot.html
+# https://tunasafa.github.io/robot-design-and-manufacturing-/brobot.html
 
-- this site is about the complete autonomous robot design and manufacturing made by my team back in my masters in robotics for robotics competition
-- i was responsible of the mecahnics
-- i did not want to abandon the public link for my 3d design and i embeded it into this showcase website
-- you can find all information about the robot in the site
-- you can see the wikipage of the project chronogically
-- you can download the 3d design
-- you can see all the parts, inspect, seperate the parts, zoom in and out in 3d
+Complete autonomous robotics system developed for competitive robotics applications during graduate studies in Robotics Engineering.
+
+Project Overview
+This repository showcases a fully autonomous robot designed and manufactured by our multidisciplinary team for robotics competition. The project encompasses mechanical design, control systems, and manufacturing processes for competitive autonomous robotics.
+
+Technical Contributions
+
+Mechanical Engineering Lead: Responsible for complete mechanical system design, component selection, prototyping and manufacturing specifications
+3D CAD Integration: Implemented interactive 3D model visualization for comprehensive design documentation and public accessibility
+
+Repository Features
+
+Complete Project Documentation: Comprehensive technical specifications and development timeline
+Interactive 3D Visualization: Embedded CAD models with full manipulation capabilities (rotation, zoom, component isolation)
+Downloadable CAD Files: Access to complete 3D design files for mechanical components
+Development Wiki: Chronological project documentation detailing design decisions, iterations, and technical challenges
+Component Analysis: Detailed part breakdown with individual component specifications
+
+This project demonstrates end-to-end robotics system development from conceptual design through manufacturing and competition deployment.
 
 --------------------------- PHOTO -----------------------------
 
@@ -17,5 +29,3 @@
 ---------------------------- VIDEO ----------------------------
 
 https://github.com/user-attachments/assets/07743917-4860-4efb-905c-e770343ffbf8
-
-
