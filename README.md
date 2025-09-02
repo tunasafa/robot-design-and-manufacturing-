@@ -8,18 +8,18 @@ Project Overview :
 
 This repository showcases a fully autonomous robot designed and manufactured by our multidisciplinary team for robotics competition. The project encompasses mechanical design, control systems, and manufacturing processes for competitive autonomous robotics.
 
-Technical Contributions
+Technical Contributions :
 
 Mechanical Engineering Lead: Responsible for complete mechanical system design, component selection, prototyping and manufacturing specifications
 3D CAD Integration: Implemented interactive 3D model visualization for comprehensive design documentation and public accessibility
 
 Repository Features
 
-Complete Project Documentation: Comprehensive technical specifications and development timeline
-Interactive 3D Visualization: Embedded CAD models with full manipulation capabilities (rotation, zoom, component isolation)
-Downloadable CAD Files: Access to complete 3D design files for mechanical components
-Development Wiki: Chronological project documentation detailing design decisions, iterations, and technical challenges
-Component Analysis: Detailed part breakdown with individual component specifications
+- Complete Project Documentation: Comprehensive technical specifications and development timeline
+- Interactive 3D Visualization: Embedded CAD models with full manipulation capabilities (rotation, zoom, component isolation)
+- Downloadable CAD Files: Access to complete 3D design files for mechanical components
+- Development Wiki: Chronological project documentation detailing design decisions, iterations, and technical challenges
+- Component Analysis: Detailed part breakdown with individual component specifications
 
 This project demonstrates end-to-end robotics system development from conceptual design through manufacturing and competition deployment.
 
