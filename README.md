@@ -6,12 +6,12 @@ Complete autonomous robotics system developed for competitive robotics applicati
 
 Project Overview :
 
-This repository showcases a fully autonomous robot designed and manufactured by our multidisciplinary team for robotics competition. The project encompasses mechanical design, control systems, and manufacturing processes for competitive autonomous robotics.
+This repository showcases a fully autonomous robot designed and manufactured by our multidisciplinary team for robotics competition.
+The project encompasses mechanical design, control systems, and manufacturing processes for competitive autonomous robotics.
 
 Technical Contributions :
 
-Mechanical Engineering Lead: Responsible for complete mechanical system design, component selection, prototyping and manufacturing specifications
-
+Mechanical Engineering Lead: Responsible for complete mechanical system design, component selection, prototyping and manufacturing specifications.
 3D CAD Integration: Implemented interactive 3D model visualization for comprehensive design documentation and public accessibility
 
 Repository Features
