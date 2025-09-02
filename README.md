@@ -11,6 +11,7 @@ This repository showcases a fully autonomous robot designed and manufactured by 
 Technical Contributions :
 
 Mechanical Engineering Lead: Responsible for complete mechanical system design, component selection, prototyping and manufacturing specifications
+
 3D CAD Integration: Implemented interactive 3D model visualization for comprehensive design documentation and public accessibility
 
 Repository Features
